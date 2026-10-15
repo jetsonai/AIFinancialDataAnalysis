@@ -9,6 +9,9 @@ conda install git
 git clone https://github.com/jetsonai/AIFinancialDataAnalysis
 
 
+ python -c "import pandas, plotly, matplotlib, openpyxl, docx, langgraph, langchain_openai; print('설치 확인 완료')"   
+ 
+
 (1일 차 예제 01~05는 Google Colab, 2일 차 예제 06~10은 이 폴더로 강의실 PC의 Jupyter에서 진행합니다.)
 
 생성형 AI 금융업무 에이전트 · Jupyter · Ollama · Qwen · FinanceAgent
