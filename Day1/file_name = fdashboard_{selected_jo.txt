@@ -1,0 +1,6 @@
+file_name = f"dashboard_{selected_job}.html"
+fig.write_html(file_name, include_plotlyjs="cdn")
+print("저장:", file_name)
+
+from google.colab import files
+files.download(file_name)                   # 내 PC로 내려받기
