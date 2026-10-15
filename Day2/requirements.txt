@@ -1,0 +1,5 @@
+# 2일 차 실습 패키지 (Anaconda에 없는 것만 설치하면 됩니다)
+# Anaconda 기본 포함: pandas, numpy, matplotlib, plotly, openpyxl, jupyter
+langgraph
+langchain-openai
+python-docx
